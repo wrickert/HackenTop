@@ -1,1 +1,1 @@
-The goal here is to create a low cost version of Andrew 'Bunnie' Huang's Novena Laptop. It will be designed around the Raspberry Pi 3 (CM3) Compute Module. No clue how ill do the monitor as of yet. 
+The goal here is to create a low cost laptop inspired in the was as Andrew 'Bunnie' Huang's Novena Laptop. It will be designed around the Raspberry Pi 3 (CM3) Compute Module. The idea is the allow easy upgrade as new compute modules are released. Monitor will be an external component to begin with.
